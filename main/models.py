@@ -8,3 +8,4 @@ class Teacher(models.Model):
     years_of_experience = models.IntegerField()
 
     objects = models.Manager()
+
